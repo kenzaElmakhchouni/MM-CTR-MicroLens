@@ -1,1 +1,30 @@
-# MM-CTR-MicroLens
+# Multimodal CTR Prediction – MicroLens 1M
+
+This project was developed for the WWW 2025 MM-CTR Challenge.
+
+## Overview
+We implement an end-to-end multimodal CTR prediction pipeline:
+- Task 1: Multimodal item embedding (text + image)
+- Task 2: CTR prediction using neural networks
+
+## Dataset
+MicroLens-1M dataset provided by Westlake University.
+
+## Method
+- Text encoding: Sentence-BERT
+- Image encoding: CLIP (RN50)
+- Fusion: Concatenation + PCA (128-d)
+- CTR Model: MLP-based neural network
+
+## Evaluation
+Metric: AUC  
+Validation AUC: **XX.XXXX**
+
+## Project Pipeline
+(MM-CTR-MicroLens_PipeLine.png)
+
+## How to Run
+1. Open the notebook
+2. Run Task 1
+3. Run Task 2
+4. Generate submission.csv
