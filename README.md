@@ -21,7 +21,7 @@ Metric: AUC
 Validation AUC: **XX.XXXX**
 
 ## Project Pipeline
-(MM-CTR-MicroLens_PipeLine.png)
+![Challenge Pipeline](MM-CTR-MicroLens_PipeLine.png)
 
 ## How to Run
 1. Open the notebook
