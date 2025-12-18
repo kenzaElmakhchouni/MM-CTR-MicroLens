@@ -2,6 +2,11 @@
 
 This project was developed for the WWW 2025 MM-CTR Challenge.
 
+## Author & Affiliation
+Realized by **Kenza EL MAKHCHOUNI**,  
+Master’s student in **Big Data and Smart Systems**,  
+**Sidi Mohamed Ben Abdellah University (USMBA)**, Morocco.
+
 ## Overview
 We implement an end-to-end multimodal CTR prediction pipeline:
 - Task 1: Multimodal item embedding (text + image)
