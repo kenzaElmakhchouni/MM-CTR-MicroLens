@@ -18,10 +18,11 @@ MicroLens-1M dataset provided by Westlake University.
 
 ## Evaluation
 Metric: AUC  
-Validation AUC: **XX.XXXX**
+Validation AUC: **0.92**
 
 ## Project Pipeline
-![Challenge Pipeline](MM-CTR-MicroLens_PipeLine.png)
+![Challenge's Task 1 Pipeline](MM-CTR_Task1_Architecture.png)
+![Challenge's Task 2 Pipeline](MM-CTR_Task2_Architecture.png)
 
 ## How to Run
 1. Open the notebook
