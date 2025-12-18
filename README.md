@@ -14,7 +14,7 @@ MicroLens-1M dataset provided by Westlake University.
 - Text encoding: Sentence-BERT
 - Image encoding: CLIP (RN50)
 - Fusion: Concatenation + PCA (128-d)
-- CTR Model: MLP-based neural network
+- CTR Model: Deep MLP-based neural network
 
 ## Evaluation
 Metric: AUC  
