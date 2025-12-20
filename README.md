@@ -43,9 +43,6 @@ You can watch a step-by-step walkthrough of the competition's tasks pipeline in 
 
 [Watch the demo video](https://drive.google.com/drive/folders/1C0iJ3A9qlsxzbIv-I2VCjKQUp18mcKQJ?usp=sharing)
 
-> 💡 Replace `YOUR_FILE_ID` with the actual ID from your Drive link.  
-> For example, if your Drive link is `https://drive.google.com/file/d/1AbCdeFGhIjklMNop/view?usp=sharing`, the ID is `1AbCdeFGhIjklMNop`.
-
 
 ## Notes
 This project was developed for **educational, academic, and research purposes**, focusing on
